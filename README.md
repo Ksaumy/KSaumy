@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="Github Banner.png" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Saumya Katiyar</h1>
 <h3 align="center">A passionate fullStack-Developer from India</h3>
 <img align ="right" alt ="coding" width="400" src="https://i.pinimg.com/originals/0e/44/88/0e44882587da10a939941f8aee1fce49.gif">
